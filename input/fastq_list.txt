@@ -1,0 +1,2 @@
+fastq_1	fastq_2	output_path
+1_S1_L001_R1_001.fastq.gz	1_S1_L001_R2_001.fastq.gz	test
